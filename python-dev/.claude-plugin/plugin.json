@@ -1,0 +1,8 @@
+{
+  "name": "python-dev",
+  "description": "Python Development Assistant",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jean-Marc Fontaine"
+  }
+}
