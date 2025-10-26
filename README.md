@@ -12,10 +12,7 @@ In Claude Code, use the `/plugin` command to manage plugins:
 # Add the plugin marketplace
 /plugin marketplace add https://github.com/jmfontaine/jmf-claude-code-plugins
 
-# Install the plugin collection
-/plugin install jmf-claude-code-plugins
-
-# Install a specific plugin from the collection
+# Install a plugin from the collection
 /plugin install <plugin>@jmf-claude-code-plugins
 ```
 

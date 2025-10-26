@@ -16,7 +16,6 @@ uv sync --upgrade-package <package name> # Upgrade specific package to its lates
 
 All the commands above accept the optional `--group <group>` option to specify a group (e.g., dev, test).
 
-
 If `uv` is not available, mention that it is required, share the
 [link to the documentation](https://docs.astral.sh/uv/#installation), and stop.
 
