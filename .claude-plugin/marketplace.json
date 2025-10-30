@@ -5,6 +5,11 @@
   },
   "plugins": [
     {
+      "name": "honest-assistant",
+      "source": "./honest-assistant",
+      "description": "Requires honest feedback and straightforward communication"
+    },
+    {
       "name": "python-dev",
       "source": "./python-dev",
       "description": "Python Development Assistant"

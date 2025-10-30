@@ -18,6 +18,8 @@ In Claude Code, use the `/plugin` command to manage plugins:
 
 ## Plugins
 
+- [honest-assistant](./honest-assistant): Ensures honest feedback and straightforward
+    communication.
 - [python-dev](./python-dev/README.md): Python development assistant.
 
 ## License
