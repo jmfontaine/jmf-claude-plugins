@@ -24,4 +24,4 @@ In Claude Code, use the `/plugin` command to manage plugins:
 
 ## License
 
-Claude Plugins is licensed under the [MIT license](./LICENSE).
+Claude Plugins is licensed under the [Apache License 2.0](LICENSE.txt).
