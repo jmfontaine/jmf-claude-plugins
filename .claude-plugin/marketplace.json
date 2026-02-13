@@ -6,12 +6,12 @@
   "plugins": [
     {
       "name": "honest-assistant",
-      "source": "./honest-assistant",
+      "source": "./plugins/honest-assistant",
       "description": "Requires honest feedback and straightforward communication"
     },
     {
       "name": "python-dev",
-      "source": "./python-dev",
+      "source": "./plugins/python-dev",
       "description": "Python Development Assistant"
     }
   ]
