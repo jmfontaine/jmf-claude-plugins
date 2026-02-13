@@ -13,6 +13,11 @@
       "name": "python-dev",
       "source": "./plugins/python-dev",
       "description": "Python Development Assistant"
+    },
+    {
+      "name": "git",
+      "source": "./plugins/git",
+      "description": "Git management"
     }
   ]
 }
