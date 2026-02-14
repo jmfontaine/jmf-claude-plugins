@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "honest-assistant",
-      "source": "./plugins/honest-assistant",
-      "description": "Requires honest feedback and straightforward communication"
+      "name": "better-assistant",
+      "source": "./plugins/better-assistant",
+      "description": "Guidelines for clearer thinking, disciplined coding, and concise communication"
     },
     {
       "name": "python-dev",
