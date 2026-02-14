@@ -10,7 +10,7 @@ In Claude Code, use the `/plugin` command to manage plugins:
 
 ```shell
 # Add the plugin marketplace
-/plugin marketplace add https://github.com/jmfontaine/jmf-claude-plugins
+/plugin marketplace add jmfontaine/jmf-claude-plugins
 
 # Install a plugin from the collection
 /plugin install <plugin>@jmf-claude-plugins
