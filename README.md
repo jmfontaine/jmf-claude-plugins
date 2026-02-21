@@ -20,6 +20,7 @@ In Claude Code, use the `/plugin` command to manage plugins:
 
 - [better-assistant](./plugins/better-assistant): Guidelines for clearer thinking, disciplined coding, and concise communication.
 - [git](./plugins/git): Git management with commit and branch naming guidelines.
+- [project-qa](./plugins/project-qa): Review project files for consistency, completeness, and correctness.
 - [python-dev](./plugins/python-dev): Python development assistant.
 
 ## License

@@ -10,9 +10,10 @@ A curated collection of plugins for Claude Code. Each plugin provides either beh
 
 ```
 plugins/
-├── honest-assistant/    # Behavioral plugin (hooks-based)
-├── python-dev/          # Skills-based plugin for Python development
-└── git/                 # Skills-based plugin for Git workflows
+├── better-assistant/    # Behavioral plugin (hooks-based)
+├── git/                 # Skills-based plugin for Git workflows
+├── project-qa/          # Skills-based plugin for project file review
+└── python-dev/          # Skills-based plugin for Python development
 ```
 
 Each plugin follows this structure:
