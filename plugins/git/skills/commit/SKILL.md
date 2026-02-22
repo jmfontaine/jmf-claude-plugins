@@ -13,6 +13,18 @@ Follow Conventional Commits with these overrides:
 - No scopes — do not use `<type>(scope):` form
 - Add body, separated by blank line, only when subject line insufficient
 
+## Pre-Commit Review
+
+Before committing, review all staged and unstaged changes to determine if they should be split into multiple commits. Changes belong in separate commits when they have different types (e.g., `feat` + `fix`), affect unrelated areas, or serve distinct purposes.
+
+If the user has not explicitly asked to split, suggest doing so and list the proposed commits. Proceed with a single commit only if all changes are logically cohesive.
+
+## New Commit vs. Amend
+
+When changes closely follow a previous commit (e.g., a quick fix or forgotten file), evaluate whether amending the previous commit is more appropriate than creating a new one. Amending is preferable when the change corrects or completes the previous commit and that commit has not been pushed.
+
+Never amend without the user's explicit approval. Present the two options (new commit vs. amend) and let the user decide.
+
 ## Additional Guidelines
 
 - Always sign commits with `git commit -S`
